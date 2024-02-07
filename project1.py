@@ -1,3 +1,5 @@
+#ShaneshShukla
+#Crafted with dedication
 import random
 
 #function roll() for generating randaom values between 1 to 6
